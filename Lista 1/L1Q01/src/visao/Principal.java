@@ -7,7 +7,6 @@ public class Principal {
 		// TODO Auto-generated method stub
 		Cachorro C1 = new Cachorro("cachorro sem nome", "nenhuma raça definida", 0);
 
-		
 		System.out.println("Antes da modificacao...");
 		System.out.println("Nome: " + C1.getNome());
 		System.out.println("Raca: " + C1.getRaca());
